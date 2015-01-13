@@ -12,13 +12,13 @@
     "generators"
   ],
   "dependencies": {
-    "thunkify": "0.0.1",
-    "aws-sdk": "^2.0.0"
+    "thunkify": "*"
   },
   "devDependencies": {
     "mocha": "*",
     "should": "*",
-    "co": "~3.0.0"
+    "co": "*",
+    "aws-sdk": "^2.0.0"
   },
   "license": "MIT"
 }
